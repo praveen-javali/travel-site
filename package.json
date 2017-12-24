@@ -1,0 +1,22 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen-javali/travel-site.git"
+  },
+  "author": "Prveen Javali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen-javali/travel-site/issues"
+  },
+  "homepage": "https://github.com/praveen-javali/travel-site#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
